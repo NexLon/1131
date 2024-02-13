@@ -5,10 +5,12 @@
 }
 
 #playPauseBtn {
+    box-shadow: 0 0 10px #ff89ef;
     position: absolute;
     top: 10px;
     left: 10px;
     cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1047.cur), auto !important;
+    
 }
 
 
